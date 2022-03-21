@@ -1,6 +1,6 @@
 # Copyright 2020 The SODA Authors.
 # Copyright (c) 2013 OpenStack, LLC.
-#
+#/*/yug/
 # All Rights Reserved.
 #
 #    Licensed under the Apache License, Version 2.0 (the "License"); you may
